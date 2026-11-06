@@ -1,0 +1,4 @@
+Device,Elements,Data_Size_MB,Median_Time_ms,Bandwidth_GBps
+NVIDIA Tesla T4,1000000,12.0,0.0745,161.08
+NVIDIA Tesla T4,4000000,48.0,0.2263,212.07
+NVIDIA Tesla T4,16000000,192.0,0.8217,233.66

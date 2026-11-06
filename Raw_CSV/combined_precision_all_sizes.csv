@@ -1,0 +1,19 @@
+Device,Precision,Matrix_Size,Median_Time_ms,Max_Error,Mean_Error,RMSE,Timing_Method,Data_Status
+Intel Xeon CPU,FP32,256,3.611096,0.0,0.0,0.0,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP16,256,28.107131,0.029602,0.004542,0.005789,Single run,Reconstructed from recorded results
+Intel Xeon CPU,BF16,256,15.344216,0.238396,0.036346,0.046268,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP32,512,4.373623,0.0,0.0,0.0,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP16,512,216.667706,0.048714,0.006382,0.008105,Single run,Reconstructed from recorded results
+Intel Xeon CPU,BF16,512,156.556824,0.352341,0.0511,0.064992,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP32,1024,36.998404,0.0,0.0,0.0,10 repetitions,Reconstructed from recorded results
+Intel Xeon CPU,FP16,1024,3844.777126,0.08371,0.009059,0.011522,10 repetitions,Reconstructed from recorded results
+Intel Xeon CPU,BF16,1024,3917.890336,0.57489,0.07258,0.092238,10 repetitions,Reconstructed from recorded results
+NVIDIA Tesla T4,FP32,256,0.086764,0.0,0.0,0.0,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP16,256,0.107443,0.03231,0.004544,0.005784,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,BF16,256,0.10823,0.257217,0.036432,0.046393,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP32,512,0.187298,0.0,0.0,0.0,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP16,512,0.079458,0.048256,0.006393,0.008132,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,BF16,512,0.273519,0.383034,0.051161,0.065097,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP32,1024,0.900514,0.0,0.0,0.0,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP16,1024,0.20002,0.082199,0.009036,0.01149,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,BF16,1024,1.562538,0.570435,0.072345,0.09197,"1 warmup, 3 repetitions",Reconstructed from recorded results

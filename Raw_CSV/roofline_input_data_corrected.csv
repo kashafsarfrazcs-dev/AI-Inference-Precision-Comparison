@@ -1,0 +1,16 @@
+Device,Matrix_Size,Median_Time_ms,GFLOPS,Arithmetic_Intensity_FLOP_per_Byte,Measured_Bandwidth_Ceiling_GBps,Data_Status
+Intel Xeon CPU,256,0.289,116.075981,42.66666666666666,22.6484321608288,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Intel Xeon CPU,512,1.8,149.107946,85.33333333333333,22.6484321608288,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Intel Xeon CPU,1024,16.136,133.08253,170.66666666666666,22.6484321608288,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Intel Xeon CPU,1536,51.338,141.176952,256.0,22.6484321608288,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Intel Xeon CPU,2048,129.117,133.056145,341.3333333333333,22.6484321608288,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+NVIDIA Tesla T4,256,0.061,549.734704,42.66666666666666,233.66,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+NVIDIA Tesla T4,512,0.128,2098.890143,85.33333333333333,233.66,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+NVIDIA Tesla T4,1024,0.73,2941.31521,170.66666666666666,233.66,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+NVIDIA Tesla T4,1536,2.649,2736.355965,256.0,233.66,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+NVIDIA Tesla T4,2048,6.078,2826.772435,341.3333333333333,233.66,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Google Cloud TPU v5e-1,256,0.297,112.977886,42.66666666666666,335.73477,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Google Cloud TPU v5e-1,512,0.306,877.240052,85.33333333333333,335.73477,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Google Cloud TPU v5e-1,1024,0.385,5577.879605,170.66666666666666,335.73477,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Google Cloud TPU v5e-1,1536,0.576,12582.912,256.0,335.73477,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ
+Google Cloud TPU v5e-1,2048,0.93,18472.977617,341.3333333333333,335.73477,Reconstructed from recorded benchmark summaries; bandwidth ceiling verified from memory-bandwidth CSV; CPU/GPU and TPU timing methods differ

@@ -1,0 +1,6 @@
+Matrix_Size,Medium_Time_ms,High_Time_ms,Highest_Time_ms,Data_Status
+256,1.071,1.046,1.106,Reconstructed from recorded TPU timing results
+512,2.202,2.165,2.214,Reconstructed from recorded TPU timing results
+1024,8.963,8.924,9.403,Reconstructed from recorded TPU timing results
+1536,17.773,17.952,18.321,Reconstructed from recorded TPU timing results
+2048,31.052,31.104,31.398,Reconstructed from recorded TPU timing results

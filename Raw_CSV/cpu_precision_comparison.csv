@@ -1,0 +1,10 @@
+Device,Precision,Matrix_Size,Median_Time_ms,Max_Error,Mean_Error,RMSE,Timing_Method,Data_Status
+Intel Xeon CPU,FP32,256,3.611096,0.0,0.0,0.0,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP16,256,28.107131,0.029602,0.004542,0.005789,Single run,Reconstructed from recorded results
+Intel Xeon CPU,BF16,256,15.344216,0.238396,0.036346,0.046268,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP32,512,4.373623,0.0,0.0,0.0,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP16,512,216.667706,0.048714,0.006382,0.008105,Single run,Reconstructed from recorded results
+Intel Xeon CPU,BF16,512,156.556824,0.352341,0.0511,0.064992,Single run,Reconstructed from recorded results
+Intel Xeon CPU,FP32,1024,36.998404,0.0,0.0,0.0,10 repetitions,Reconstructed from recorded results
+Intel Xeon CPU,FP16,1024,3844.777126,0.08371,0.009059,0.011522,10 repetitions,Reconstructed from recorded results
+Intel Xeon CPU,BF16,1024,3917.890336,0.57489,0.07258,0.092238,10 repetitions,Reconstructed from recorded results

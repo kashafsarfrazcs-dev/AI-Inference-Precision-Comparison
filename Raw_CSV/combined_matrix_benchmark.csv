@@ -1,0 +1,16 @@
+Device,Matrix_Size,Median_Time_ms,GFLOPS,Data_Status
+CPU,256,0.2890730000046,116.07598080573224,Original saved measurement
+GPU,256,0.06103750001784647,549.7347039146291,Original saved measurement
+CPU,512,1.8002759999546,149.10794567430534,Original saved measurement
+GPU,512,0.12789400000200002,2098.8901433669234,Original saved measurement
+CPU,1024,16.1364804999948,133.08252986149537,Original saved measurement
+GPU,1024,0.7301099999779,2941.3152101258247,Original saved measurement
+CPU,2048,129.1174430000126,133.05614473792147,Original saved measurement
+GPU,2048,6.0775565000028005,2826.772434611168,Original saved measurement
+CPU,1536,51.338106000002796,141.17695171690974,Original saved measurement
+GPU,1536,2.6486895000061,2736.355964707481,Original saved measurement
+TPU v5e-1,256,0.297,112.977886,Reconstructed from recorded TPU host timings
+TPU v5e-1,512,0.306,877.240052,Reconstructed from recorded TPU host timings
+TPU v5e-1,1024,0.385,5577.879605,Reconstructed from recorded TPU host timings
+TPU v5e-1,1536,0.576,12582.912,Reconstructed from recorded TPU host timings
+TPU v5e-1,2048,0.93,18472.977617,Reconstructed from recorded TPU host timings

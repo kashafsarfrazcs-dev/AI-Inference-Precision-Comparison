@@ -1,0 +1,10 @@
+Device,Precision,Matrix_Size,Median_Time_ms,Max_Error,Mean_Error,RMSE,Timing_Method,Data_Status
+NVIDIA Tesla T4,FP32,256,0.086764,0.0,0.0,0.0,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP16,256,0.107443,0.03231,0.004544,0.005784,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,BF16,256,0.10823,0.257217,0.036432,0.046393,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP32,512,0.187298,0.0,0.0,0.0,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP16,512,0.079458,0.048256,0.006393,0.008132,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,BF16,512,0.273519,0.383034,0.051161,0.065097,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP32,1024,0.900514,0.0,0.0,0.0,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,FP16,1024,0.20002,0.082199,0.009036,0.01149,"1 warmup, 3 repetitions",Reconstructed from recorded results
+NVIDIA Tesla T4,BF16,1024,1.562538,0.570435,0.072345,0.09197,"1 warmup, 3 repetitions",Reconstructed from recorded results

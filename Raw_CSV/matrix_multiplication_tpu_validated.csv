@@ -1,0 +1,6 @@
+Device,Matrix_Size,Event_Time_ms,Host_Time_ms,GFLOPS_Event,GFLOPS_Host,Data_Status
+TPU v5e-1,256,0.269,0.297,124.737665,112.977886,Reconstructed from recorded TPU timing summary
+TPU v5e-1,512,0.277,0.306,969.081069,877.240052,Reconstructed from recorded TPU timing summary
+TPU v5e-1,1024,0.356,0.385,6032.257438,5577.879605,Reconstructed from recorded TPU timing summary
+TPU v5e-1,1536,0.548,0.576,13225.834511,12582.912,Reconstructed from recorded TPU timing summary
+TPU v5e-1,2048,0.894,0.93,19216.855911,18472.977617,Reconstructed from recorded TPU timing summary

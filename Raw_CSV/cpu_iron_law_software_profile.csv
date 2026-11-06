@@ -1,0 +1,5 @@
+Operator,Calls,CPU_Time_Total_us,CPU_Time_Average_us,CPU_Memory_Bytes
+aten::matmul,5,106583.60399999999,21316.7208,5242880
+aten::mm,5,106488.075,21297.614999999998,5242880
+aten::resolve_conj,15,9.472999999990407,0.6315333333326938,0
+[memory],4,0.0,0.0,-4194304

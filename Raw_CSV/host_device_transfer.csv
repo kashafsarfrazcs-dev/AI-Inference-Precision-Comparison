@@ -1,0 +1,11 @@
+Direction,Data_Size_MiB,Transfer_Time_ms,Effective_Bandwidth_GBps,Device,Data_Size_Bytes,Timing_Statistic,Data_Status
+CPU to GPU,1,0.444,2.361658,NVIDIA Tesla T4,1048576,Upper-middle order statistic,Reconstructed from recorded console summary
+CPU to GPU,4,2.999,1.398568,NVIDIA Tesla T4,4194304,Upper-middle order statistic,Reconstructed from recorded console summary
+CPU to GPU,16,7.609,2.204917,NVIDIA Tesla T4,16777216,Upper-middle order statistic,Reconstructed from recorded console summary
+CPU to GPU,64,15.451,4.343335,NVIDIA Tesla T4,67108864,Upper-middle order statistic,Reconstructed from recorded console summary
+CPU to GPU,128,31.204,4.301299,NVIDIA Tesla T4,134217728,Upper-middle order statistic,Reconstructed from recorded console summary
+GPU to CPU,1,0.356,2.945438,NVIDIA Tesla T4,1048576,Upper-middle order statistic,Reconstructed from recorded console summary
+GPU to CPU,4,0.991,4.232396,NVIDIA Tesla T4,4194304,Upper-middle order statistic,Reconstructed from recorded console summary
+GPU to CPU,16,3.528,4.755447,NVIDIA Tesla T4,16777216,Upper-middle order statistic,Reconstructed from recorded console summary
+GPU to CPU,64,45.009,1.49101,NVIDIA Tesla T4,67108864,Upper-middle order statistic,Reconstructed from recorded console summary
+GPU to CPU,128,91.069,1.473803,NVIDIA Tesla T4,134217728,Upper-middle order statistic,Reconstructed from recorded console summary

@@ -1,0 +1,2 @@
+Device,Workload,Number_of_Calls,Total_CPU_Time_us,Average_Time_per_Call_us,Instruction_Count,Measured_CPI,Reason
+Intel Xeon CPU,512x512 Matrix Multiplication,5,106488.075,21297.614999999998,Unavailable,Unavailable,Linux perf utility unavailable in Colab

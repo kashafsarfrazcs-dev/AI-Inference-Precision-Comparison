@@ -1,0 +1,16 @@
+Device,Matrix_Size,Precision_Mode,Median_Time_ms,Max_Error,RMSE,Data_Status
+Google Cloud TPU v5e-1,256,medium,0.307,0.18210411,0.03777457,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,256,high,0.303,0.00111008,0.00020831,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,256,highest,0.305,2.289e-05,3.52e-06,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,512,medium,0.279,0.26791382,0.05326051,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,512,high,0.312,0.00151062,0.00029414,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,512,highest,0.317,5.341e-05,5.74e-06,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,1024,medium,0.322,0.38045692,0.07524784,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,1024,high,0.352,0.00219727,0.00041515,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,1024,highest,0.403,7.248e-05,8.9e-06,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,1536,medium,0.37,0.47424316,0.09207034,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,1536,high,0.443,0.00302124,0.00050931,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,1536,highest,0.564,9.155e-05,1.164e-05,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,2048,medium,0.47,0.57023239,0.10641143,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,2048,high,0.619,0.0032959,0.00058729,Reconstructed from recorded TPU results
+Google Cloud TPU v5e-1,2048,highest,0.925,0.00012207,1.413e-05,Reconstructed from recorded TPU results
